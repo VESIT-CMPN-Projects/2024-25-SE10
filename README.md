@@ -1,4 +1,3 @@
-```markdown
 # SignBridge: Bridging the Gap Through Sign Language and Inclusivity
 
 SignBridge is an innovative AI-powered application designed to overcome communication barriers for India's deaf and hard-of-hearing community. By translating Indian Sign Language (ISL) gestures into text—and vice versa—in real time, SignBridge empowers users to communicate seamlessly and promotes inclusivity.
