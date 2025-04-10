@@ -137,9 +137,4 @@ Contributions are welcome! If you have ideas, improvements, or bug fixes, please
 
 We would like to extend our deepest gratitude to our mentor, **Prof. Vidya Zope**, whose guidance was instrumental throughout this project. We also thank the Department of Computer Engineering at **Vivekananda Education Society's Institute of Technology** for their support and resources. Special thanks to the Rochiram Thadani School for Specially-Abled Students and the Ali Yavar Jung National Institute for their invaluable insights during our field visits, which significantly shaped our research.
 
----
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
